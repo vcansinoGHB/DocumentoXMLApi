@@ -1,0 +1,15 @@
+C:\COMPAi\DocumentApplication\bin\Debug\net8.0\DocumentApplication.deps.json
+C:\COMPAi\DocumentApplication\bin\Debug\net8.0\DocumentApplication.dll
+C:\COMPAi\DocumentApplication\bin\Debug\net8.0\DocumentApplication.pdb
+C:\COMPAi\DocumentApplication\bin\Debug\net8.0\DocumentDomain.dll
+C:\COMPAi\DocumentApplication\bin\Debug\net8.0\DocumentDomain.pdb
+C:\COMPAi\DocumentApplication\obj\Debug\net8.0\DocumentApplication.csproj.AssemblyReference.cache
+C:\COMPAi\DocumentApplication\obj\Debug\net8.0\DocumentApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\COMPAi\DocumentApplication\obj\Debug\net8.0\DocumentApplication.AssemblyInfoInputs.cache
+C:\COMPAi\DocumentApplication\obj\Debug\net8.0\DocumentApplication.AssemblyInfo.cs
+C:\COMPAi\DocumentApplication\obj\Debug\net8.0\DocumentApplication.csproj.CoreCompileInputs.cache
+C:\COMPAi\DocumentApplication\obj\Debug\net8.0\Document.F8275F16.Up2Date
+C:\COMPAi\DocumentApplication\obj\Debug\net8.0\DocumentApplication.dll
+C:\COMPAi\DocumentApplication\obj\Debug\net8.0\refint\DocumentApplication.dll
+C:\COMPAi\DocumentApplication\obj\Debug\net8.0\DocumentApplication.pdb
+C:\COMPAi\DocumentApplication\obj\Debug\net8.0\ref\DocumentApplication.dll

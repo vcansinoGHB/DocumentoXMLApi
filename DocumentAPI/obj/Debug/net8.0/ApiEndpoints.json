@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "DocumentAPI.Controllers.DocumentController",
+    "Method": "FormatConverter",
+    "RelativePath": "format-converter",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Xml",
+        "Type": "DocumentDomain.Entities.FormatRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

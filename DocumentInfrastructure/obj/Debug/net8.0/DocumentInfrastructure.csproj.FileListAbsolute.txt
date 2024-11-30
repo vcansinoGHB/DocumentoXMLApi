@@ -1,0 +1,17 @@
+C:\COMPAi\DocumentInfrastructure\bin\Debug\net8.0\DocumentInfrastructure.deps.json
+C:\COMPAi\DocumentInfrastructure\bin\Debug\net8.0\DocumentInfrastructure.dll
+C:\COMPAi\DocumentInfrastructure\bin\Debug\net8.0\DocumentInfrastructure.pdb
+C:\COMPAi\DocumentInfrastructure\bin\Debug\net8.0\DocumentApplication.dll
+C:\COMPAi\DocumentInfrastructure\bin\Debug\net8.0\DocumentDomain.dll
+C:\COMPAi\DocumentInfrastructure\bin\Debug\net8.0\DocumentApplication.pdb
+C:\COMPAi\DocumentInfrastructure\bin\Debug\net8.0\DocumentDomain.pdb
+C:\COMPAi\DocumentInfrastructure\obj\Debug\net8.0\DocumentInfrastructure.csproj.AssemblyReference.cache
+C:\COMPAi\DocumentInfrastructure\obj\Debug\net8.0\DocumentInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\COMPAi\DocumentInfrastructure\obj\Debug\net8.0\DocumentInfrastructure.AssemblyInfoInputs.cache
+C:\COMPAi\DocumentInfrastructure\obj\Debug\net8.0\DocumentInfrastructure.AssemblyInfo.cs
+C:\COMPAi\DocumentInfrastructure\obj\Debug\net8.0\DocumentInfrastructure.csproj.CoreCompileInputs.cache
+C:\COMPAi\DocumentInfrastructure\obj\Debug\net8.0\Document.C516A6A9.Up2Date
+C:\COMPAi\DocumentInfrastructure\obj\Debug\net8.0\DocumentInfrastructure.dll
+C:\COMPAi\DocumentInfrastructure\obj\Debug\net8.0\refint\DocumentInfrastructure.dll
+C:\COMPAi\DocumentInfrastructure\obj\Debug\net8.0\DocumentInfrastructure.pdb
+C:\COMPAi\DocumentInfrastructure\obj\Debug\net8.0\ref\DocumentInfrastructure.dll
